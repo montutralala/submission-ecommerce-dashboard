@@ -62,16 +62,6 @@ Dashboard akan otomatis terbuka di `http://localhost:8501`
 
 ---
 
-## ☁️ Deploy ke Streamlit Cloud
-
-1. Fork atau clone repo ini ke akun GitHub kamu
-2. Buka [share.streamlit.io](https://share.streamlit.io) dan login dengan GitHub
-3. Klik **"New app"** → pilih repo ini
-4. Set **Main file path**: `dashboard/dashboard.py`
-5. Klik **Deploy** ✅
-
----
-
 ## 📁 Struktur Direktori
 
 ```
