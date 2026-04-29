@@ -47,11 +47,11 @@ Data ini merupakan tahap nalisis dilakukan terhadap **Brazilian E-Commerce Publi
 
 | Library | Versi | Kegunaan |
 |---|---|---|
-| 'pandas' | 3.0.2 | Manipulasi dan analisis data |
-| 'numpy' | 2.4.2 | Komputasi numerik |
-| 'matplotlib' | 3.10.9 | Visualisasi data |
-| 'seaborn' | 0.13.2 | Visualisasi statistik |
-| 'streamlit' | 1.56.0 | Dashboard interaktif |
+| pandas | 3.0.2 | Manipulasi dan analisis data |
+| numpy | 2.4.2 | Komputasi numerik |
+| matplotlib | 3.10.9 | Visualisasi data |
+| seaborn | 0.13.2 | Visualisasi statistik |
+| streamlit | 1.56.0 | Dashboard interaktif |
 
 ---
 
