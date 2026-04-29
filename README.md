@@ -12,7 +12,7 @@ Dashboard interaktif untuk menganalisis data transaksi e-commerce Brasil dari da
 
 ## 📌 Deskripsi Proyek
 
-Proyek ini merupakan proyek akhir kelas **Belajar Analisis Data dengan Python** di Dicoding. Analisis dilakukan terhadap **Brazilian E-Commerce Public Dataset** yang mencakup ~100.000 transaksi dari September 2016 hingga Oktober 2018.
+Data ini merupakan tahap nalisis dilakukan terhadap **Brazilian E-Commerce Public Dataset** yang mencakup ~100.000 transaksi dari September 2016 hingga Oktober 2018.
 
 ### ❓ Pertanyaan Bisnis yang Dijawab
 
@@ -42,28 +42,21 @@ Proyek ini merupakan proyek akhir kelas **Belajar Analisis Data dengan Python** 
 
 **1. Clone repository ini**
 ```bash
-git clone https://github.com/username/ecommerce-dashboard.git
-cd ecommerce-dashboard
+git clone https://github.com/montutralala/submission-ecommerce-dashboard.git
+cd submission-ecommerce-dashboard
 ```
 
-**2. (Opsional) Buat virtual environment**
-```bash
-python -m venv venv
-source venv/bin/activate       # Mac / Linux
-venv\Scripts\activate          # Windows
-```
-
-**3. Install dependensi**
+**2. Install dependensi**
 ```bash
 pip install -r requirements.txt
 ```
 
-**4. Jalankan dashboard**
+**3. Jalankan dashboard**
 ```bash
 streamlit run dashboard/dashboard.py
 ```
 
-**5. Buka browser**
+**4. Buka browser**
 
 Dashboard akan otomatis terbuka di `http://localhost:8501`
 
@@ -82,7 +75,7 @@ Dashboard akan otomatis terbuka di `http://localhost:8501`
 ## 📁 Struktur Direktori
 
 ```
-ecommerce-dashboard/
+submission-ecommerce-dashboard/
 ├── dashboard/
 │   ├── dashboard.py                  # ← Aplikasi Streamlit utama
 │   ├── main_data.csv                 # Data gabungan untuk dashboard
@@ -141,7 +134,6 @@ Notebook Jupyter dengan analisis end-to-end tersedia di:
 ## 👤 Author
 
 **Nathan Alfa Shidqi**
-Proyek akhir — Dicoding: Belajar Analisis Data dengan Python
 
 ---
 
